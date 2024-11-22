@@ -1,0 +1,42 @@
+[
+  {
+    "name": "admin",
+    "password": "123456",
+    "role": "admin",
+    "avatar": "https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
+    "introduction": "I am a super administrator",
+    "email": "admin@admin.com",
+    "phone": "12345678901",
+    "age": 23
+  },
+  {
+    "name": "user1",
+    "password": "123456",
+    "role": "user",
+    "avatar": "https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
+    "introduction": "I am a user",
+    "email": "user1@user1.com",
+    "phone": "12345678902",
+    "age": 22
+  },
+  {
+    "name": "user2",
+    "password": "123456",
+    "role": "user",
+    "avatar": "https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
+    "introduction": "I am a user",
+    "email": "user2@user2.com",
+    "phone": "12345678903",
+    "age": 21
+  },
+  {
+    "name": "user3",
+    "password": "123456",
+    "role": "user",
+    "avatar": "https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
+    "introduction": "I am a user",
+    "email": "user3@user3.com",
+    "phone": "12345678904",
+    "age": 20
+  }
+]

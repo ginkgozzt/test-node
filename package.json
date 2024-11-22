@@ -1,0 +1,10 @@
+{
+  "name": "zzt",
+  "version": "1.0.0",
+  "description": "A ZZT game engine",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node src/index.js"
+  },
+  "author": "zzt"
+}
